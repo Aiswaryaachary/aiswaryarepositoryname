@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105528" started-at="2020-02-11T15:46:16 IST" finished-at="2020-02-11T15:48:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105528" started-at="2020-02-11T15:46:16 IST" finished-at="2020-02-11T15:48:02 IST">
+      <class name="stepdev.testng_apachepoi">
+        <test-method status="PASS" signature="f()[pri:0, instance:stepdev.testng_apachepoi@cd2dae5]" name="f" duration-ms="104964" started-at="2020-02-11T15:46:16 IST" finished-at="2020-02-11T15:48:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- stepdev.testng_apachepoi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
